@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="plantes">
+        <item>Ail</item>
+        <item>Betterave</item>
+        <item>Brocoli</item>
+        <item>Carotte</item>
+        <item>Celeri</item>
+        <item>Ciboulette</item>
+        <item>Chou-fleur</item>
+        <item>Concombre</item>
+        <item>Epinard</item>
+        <item>Haricots</item>
+        <item>Kale</item>
+        <item>Laitue</item>
+        <item>Mais</item>
+        <item>Oignons</item>
+        <item>Panais</item>
+        <item>Persil</item>
+        <item>Poivron</item>
+        <item>Pomme de terre</item>
+        <item>Radis</item>
+        <item>Tomate</item>
+
+
+    </array>
+</resources>

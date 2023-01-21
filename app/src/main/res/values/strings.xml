@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GardenCompanion</string>
+    <string name="ou_comparer_2_plantes">Ou comparer 2 plantes:</string>
+    <string name="il_s_agit_de_fournir_le_meilleur_environnement_possible_aux_l_gumes_que_vous_cultivez_et_de_regrouper_les_bons_v_g_taux_ensembles_et_d_loigner_les_mauvais_compagnons">Il s’agit de fournir le meilleur environnement possible aux légumes que vous cultivez et de regrouper les bons végétaux ensembles et d’éloigner les mauvais compagnons.</string>
+    <string name="le_compagnonage_au_jardin">Le compagnonage au jardin</string>
+    <string name="comparer">Comparer</string>
+    <string name="choisir_une_plante_pour_en_apprendre_plus">Choisir une plante pour en apprendre plus:</string>
+    <string name="voir_plante">Voir plante</string>
+    <string name="envoyer">envoyer</string>
+    <string name="afficher">afficher</string>
+    <string name="partager">partager</string>
+    <string name="home" />
+    <string name="retour" />
+</resources>
